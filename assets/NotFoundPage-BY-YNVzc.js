@@ -1,0 +1,1 @@
+import{j as t}from"./index-BFPs0KOC.js";const l=()=>t.jsxs("div",{className:"flex h-full flex-col items-center justify-center",children:[t.jsx("h1",{className:"text-primary-light text-9xl font-bold",children:"404"}),t.jsx("p",{className:"text-primary-light mt-4 text-2xl",children:"Страница не найдена"})]});export{l as default};
